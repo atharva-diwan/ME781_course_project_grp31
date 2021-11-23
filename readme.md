@@ -27,9 +27,9 @@ You can find more info about each question in the data set link.
 
 In this study I will analyse the data set and use unsupervised learning algorithm K-Means Clustering for clustering the participants.
 
-Resources:
-https://en.wikipedia.org/wiki/Big_Five_personality_traits
-https://ipip.ori.org/newBigFive5broadKey.htm
+Resources: \
+https://en.wikipedia.org/wiki/Big_Five_personality_traits \
+https://ipip.ori.org/newBigFive5broadKey.htm \
 https://www.kaggle.com/tunguz/big-five-personality-test
 
 ## Downloading the dataset
