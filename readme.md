@@ -36,15 +36,15 @@ https://www.kaggle.com/tunguz/big-five-personality-test
 
 Link to download dataset: https://drive.google.com/uc?export=download&id=1EyZ8IBXhPrIkvLnjKaFVIAsAejbgTQHZ
 \
-Download and Unzip in the folder: AI_Matchmaking/big5_dataset
+Download and Unzip in the folder: big5_personality_dataset
 
 ## Data Visualization
-The code for visualizing the big 5 personality data is present inside the folder AI_Matchmaking/data_visualization
+The code for visualizing the big 5 personality data is present inside the folder data_visualization
 
 ## PCA for dimensionality reduction
-The code for applying principal component analysis to identify useful features in the data is present in the folder AI_Matchmaking/pca
+The code for applying principal component analysis to identify useful features in the data is present in the folder pca
  
 ## K-means Clustering
-The code to segregate the data points into clusters for classification according to the personality traits and identifying potential matches within the data is present in the folder AI_Matchmaking/k_means_clustering
+The code to segregate the data points into clusters for classification according to the personality traits and identifying potential matches within the data is present in the folder k_means_clustering
 
 To implement all the functionalities above check out the jupyter notebook 'roommate_matchmaking.ipynb' or run it on google colab: https://drive.google.com/file/d/1clRayqqzdkPopaMcJehP21NZKHZVpBAj/view?usp=sharing 
