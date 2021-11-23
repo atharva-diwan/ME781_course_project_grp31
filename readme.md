@@ -1,3 +1,10 @@
+## Matchmaking using PCA and K-means clustering
+We propose a method to find compatible roommates/flatmates based on their personality traits which 
+would be assessed by the Big5 personality criteria. We apply PCA (Principal Component Analysis) for dimensionality reduction
+and then use K-means clustering algorithm to separate . The potential roommates/flatmates would be ranked on the basis 
+of how closely their personality traits match with each other.
+ 
+
 ## Dataset details
 
 Big Five personality traits, also known as the five-factor model (FFM) and the OCEAN model, is for grouping different personality traits.
