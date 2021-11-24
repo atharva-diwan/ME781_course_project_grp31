@@ -47,4 +47,6 @@ The code for applying principal component analysis to identify useful features i
 ## K-means Clustering
 The code to segregate the data points into clusters for classification according to the personality traits and identifying potential matches within the data is present in the folder k_means_clustering
 
-To implement all the functionalities mentioned above including the steps to test on new data points check out the jupyter notebook 'roommate_matchmaking.ipynb' or run it on google colab: https://drive.google.com/file/d/1clRayqqzdkPopaMcJehP21NZKHZVpBAj/view?usp=sharing 
+To implement all the functionalities mentioned above including the steps to test on 
+new data points check out the jupyter notebook 'roommate_matchmaking.ipynb' 
+or run it on google colab: https://colab.research.google.com/drive/1QhFFRSAEciu7mRlUn5NxMAEOVVgGCi83?usp=sharing 
