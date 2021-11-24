@@ -4,7 +4,7 @@ that share important characteristics and classifies them together into clusters.
 A good clustering solution is one that finds clusters such that the observations 
 within each cluster are more similar than the clusters themselves. 
 
-To identify the no. of clusters ‘K’ we visualize the elbow plot:
+To identify the no. of clusters ‘K’ we visualize the elbow plot: \
 ![](https://drive.google.com/uc?id=1idWTVc5H8LCWCoJfL8NoPnyt5vH-3jiW) 
 
 The marginal sum of within-cluster distances between individuals & the marginal distance between the 
