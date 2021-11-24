@@ -49,4 +49,7 @@ The code to segregate the data points into clusters for classification according
 
 To implement all the functionalities mentioned above including the steps to test on 
 new data points check out the jupyter notebook 'roommate_matchmaking.ipynb' 
-or run it on google colab: https://colab.research.google.com/drive/1QhFFRSAEciu7mRlUn5NxMAEOVVgGCi83?usp=sharing 
+or run it on google colab: https://colab.research.google.com/drive/1QhFFRSAEciu7mRlUn5NxMAEOVVgGCi83?usp=sharing
+
+To run the code for finding roommate/flatmate without data visualisation run the notebook 'roommate_matchmaking_user_code' or run on google colab: https://colab.research.google.com/drive/1OynEXpjg_iQqpcdx0TBx63MkK54X__jC?usp=sharing
+
